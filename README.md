@@ -1,2 +1,2 @@
-# Hellow-Github
+# Hello-Github
 Toturial exercise to get acquainted with github
